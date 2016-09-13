@@ -80,7 +80,7 @@ int main(int argc, char **argv)
 	glfwInit();
 
 	// Initialize window
-	GLFWwindow* window = glfwCreateWindow(viewportDimensions.x, viewportDimensions.y, "3D Cameras", nullptr, nullptr);
+	GLFWwindow* window = glfwCreateWindow(viewportDimensions.x, viewportDimensions.y, "Voxels not included.", nullptr, nullptr);
 
 	glfwMakeContextCurrent(window);
 

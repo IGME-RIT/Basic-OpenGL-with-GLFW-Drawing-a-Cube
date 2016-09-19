@@ -4,7 +4,7 @@ This program introduces basic concepts involved in writing an OpenGL program.
 
 # About
 
-Now that we have a 3D camera, we can finally render a 3d shape!
+Now that we have a 3D camera, we can finally render a 3D shape!
 
 # Setup
 
